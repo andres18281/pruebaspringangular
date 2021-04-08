@@ -1,0 +1,6 @@
+C:\spring\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\services\IClienteService.java
+C:\spring\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\controllers\ClienteRestController.java
+C:\spring\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\dao\IClienteDao.java
+C:\spring\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\entity\Cliente.java
+C:\spring\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\services\ClienteServiceImpl.java
+C:\spring\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\SpringBootBackendApirestApplication.java
